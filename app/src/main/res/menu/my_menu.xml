@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/copy_item"
+        android:title="Set Alarm" />
+
+    <item android:id="@+id/preference"
+        android:title="Change MARKS Color" />
+
+    <item android:id="@+id/preference1"
+        android:title="Change HANDS Color" />
+
+</menu>
